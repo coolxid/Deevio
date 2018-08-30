@@ -1,0 +1,1 @@
+curl http://0.0.0.0:5000/predict?image=https://st3.depositphotos.com/5376016/12932/i/950/depositphotos_129320790-stock-photo-single-crooked-and-rusty-nail.jpg
